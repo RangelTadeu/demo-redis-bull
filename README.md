@@ -1,5 +1,5 @@
 <h3 align="center">
-  Using Redis and bull to run jobs in backgroud or in another structure. Reactive Programming.
+  Using Redis and Bull to run jobs in backgroud or in another structure. Reactive Programming.
 </h3>
 
 ## Requirement
